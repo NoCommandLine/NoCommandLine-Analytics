@@ -1,6 +1,7 @@
 # NoCommandLine (Analytics)
 Private Analytics for Google Cloud Serverless (GAE, Cloud Run)
 
+**Join the list to be notified** when this feature is ready. Sign up [here](https://forms.gle/7hg4F1E9AhbfSwJt7) 
 
 - No 3rd parties involved 
     - **Desktop App**
