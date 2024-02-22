@@ -28,7 +28,7 @@ Private Analytics for Google Cloud Serverless (GAE, Cloud Run)
     - Automatically generate firewall rules (only for GAE Apps)
 
  
-- Track events like 'visits to specific pages' 
+- Track  visits to **specific pages** 
     - View the timeline 
     - What time the user arrived
     - Which site referred them
@@ -38,11 +38,11 @@ Private Analytics for Google Cloud Serverless (GAE, Cloud Run)
 
 
 ## Download
-https://analytics.nocommandline.com/download/ 
-
+https://analytics.nocommandline.com/ 
+<!--
 ## Website
-[https://nocommandline.com/](https://analytics.nocommandline.com/)https://analytics.nocommandline.com/
-
+https://analytics.nocommandline.com/
+-->
 
 ## Images
 ![Analytics showing number of visitors to a website](https://analytics.nocommandline.com/static/images/demos/ncl-analytics-data-visitor-count-spam-normal.png)
