@@ -1,30 +1,54 @@
 # NoCommandLine (Analytics)
-Private Analytics for Google Cloud Serverless (GAE, Cloud Run)
+Private Analytics for Google Cloud Serverless (GAE, Cloud Run)  
 
-**Join the list to be notified** when this feature is ready. Sign up [here](https://forms.gle/7hg4F1E9AhbfSwJt7) 
+<br/>
+<p align="center"> <b>No 3rd parties involved || Parses your gcloud logs with `gcloud CLI` || All analytics are stored on your machine</b> </p>
+
+![NoCommandLine (Analytics) home page showing a project's analytics](https://analytics.nocommandline.com/static/images/demos/ncl-analytics-data-visitor-analytics-list.png)
 
 - No 3rd parties involved 
     - **Desktop App**
     - Parses your gcloud logs with `gcloud CLI` 
     - All analytics are stored on your machine
     - Optionally keep copies of your gcloud logs on your machine (Google deletes logs after 30 days). You can then run custom queries on them
-- Identify spam visits
-    - Automatically generate firewall rules (only for GAE Apps)
+
 - Helps answer the following questions
+    - Who are my top referrers?
+    - What are my most visited pages?
     - How many visits did I get?
     - Where are my visitors from? 
     - When do they visit?
     - What devices do they use? 
     - What OS do they run?
     - What browsers do they use?
-    - Who are my top referrers?
-    - What are my most visited pages?
+    
+- Identify spam visits
+    - Automatically generate firewall rules (only for GAE Apps)
 
  
+- Track events like 'visits to specific pages' 
+    - View the timeline 
+    - What time the user arrived
+    - Which site referred them
+    - How they moved around your site
+ 
+      
 
-## Coming Soon
-Join the list to be notified when this feature is ready. Sign up [here](https://forms.gle/7hg4F1E9AhbfSwJt7) 
+
+## Download
+https://analytics.nocommandline.com/download/ 
+
+## Website
+[https://nocommandline.com/](https://analytics.nocommandline.com/)https://analytics.nocommandline.com/
 
 
+## Images
+![Analytics showing number of visitors to a website](https://analytics.nocommandline.com/static/images/demos/ncl-analytics-data-visitor-count-spam-normal.png)
 
+<br/>
 
+![Analytics showing number of spam visits to a website](https://analytics.nocommandline.com/static/images/demos/ncl-analytics-data-spam-visits-1.png)
+
+<br/>
+
+![Analytics showing pages visited by a spam visitor](https://analytics.nocommandline.com/static/images/demos/ncl-analytics-data-spam-visits-2.png)
