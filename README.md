@@ -2,9 +2,11 @@
 Private Analytics for Google Cloud Serverless (GAE, Cloud Run)  
 
 <br/>
-<p align="center"> <b>No 3rd parties involved || Parses your gcloud logs with `gcloud CLI` || All analytics are stored on your machine</b> </p>
+<p align="center"> <b>No 3rd parties involved ; Parses your gcloud logs with <code style="color : red">gcloud CLI</code> ; All analytics are stored on your machine</b> </p>
 
 ![NoCommandLine (Analytics) home page showing a project's analytics](https://analytics.nocommandline.com/static/images/demos/ncl-analytics-data-visitor-analytics-list.png)
+
+
 
 - No 3rd parties involved 
     - **Desktop App**
